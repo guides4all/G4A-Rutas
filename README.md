@@ -16,7 +16,7 @@ Iniciativa G4A (Guides for all), donde les brindamos rutas de aprendizajes efect
 | 🌐Web: | coming soon... |
 | 📽️Youtube | coming soon... |
 | 🐦Twitter: ParraCode | https://twitter.com/ParraCode_ |
-| 📷Instagram: ParraCode | https://www.instagram.com/parracode_/?hl=es-la |
+| 📷Instagram| https://www.instagram.com/guides4all/?hl=es-la |
 
 
 
