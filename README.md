@@ -1,6 +1,7 @@
 
 # G4A Rutas de aprendizaje
   <div align="center"> <img src="https://user-images.githubusercontent.com/71718050/178167033-d8e269fb-ca36-475f-ab4f-b6d8b95ac495.png"></img></div>
+  
 ## Consejos para comenzar
 
 
