@@ -21,11 +21,11 @@ Selecciona la ruta de aprendizaje que mas te llame la atención, te recomendamos
 <h2 id="indice">Indice</h2>
 
 1. <a href="https://github.com/guides4all/Ruta-SoftSkills" target="_blank">Soft skills</a>
-2. <a href="#FDP">Fundamentos de programación</a>
-3. <a href="#uno">Linux/GNU</a>
+2. <a href="https://github.com/guides4all/Ruta-Fundadementos-programacion">Fundamentos de programación</a>
+3. <a href="https://github.com/guides4all/Ruta-Terminal-Linea-comandos">Terminal y linea de comandos</a>
 4. <a href="#uno">UX/UI desing</a>
-5. <a href="#uno">Git/Github</a>
-6. <a href="#uno">Frontend</a>
+5. <a href="https://github.com/guides4all/Ruta-Git">Git/Github</a>
+6. <a href="https://github.com/guides4all/Ruta-FrontEnd">Frontend</a>
 7. <a href="#uno">Backend</a>
 8. <a href="#uno">Mobile</a>
 9. <a href="#uno">Databases</a>
