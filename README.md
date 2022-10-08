@@ -20,7 +20,7 @@ Selecciona la ruta de aprendizaje que mas te llame la atención, te recomendamos
 
 <h2 id="indice">Indice</h2>
 
-1. <a href="#SF">Soft skills</a>
+1. <a href="https://github.com/guides4all/Ruta-SoftSkills" target="_blank">Soft skills</a>
 2. <a href="#FDP">Fundamentos de programación</a>
 3. <a href="#uno">Linux/GNU</a>
 4. <a href="#uno">UX/UI desing</a>
